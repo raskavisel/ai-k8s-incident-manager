@@ -1,0 +1,6 @@
+cpu_usage,memory_usage,latency,restarts,incident_type
+85,40,120,0,CPU Issue
+40,90,200,1,Memory Issue
+30,30,1500,0,Latency Issue
+70,85,100,3,Pod Restart Issue
+60,50,1800,2,Latency Issue
