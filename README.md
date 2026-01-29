@@ -41,7 +41,7 @@ python src/decision_engine.py
 6.Check recommended actions:
 python src/remediation_actions.py
 
-##Future Enhancements
+## Future Enhancements
 - Connect to real Kubernetes cluster using Python kubernetes client
 - Add web-based dashboard for real-time monitoring
 - Extend ML model for multiple clusters & more incident types
